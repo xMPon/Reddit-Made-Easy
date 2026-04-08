@@ -8,7 +8,7 @@
 * Keep track of how often they mention their product so they stay within Reddit’s self‑promotion expectations (roughly the “10% rule”).
 
 # Scope
-* The project will cover:
+The project will cover:
 * Product analysis: Input is a description, landing page URL, or app store link. The system extracts keywords, pain points, and target personas via NLP.
 * Subreddit discovery: Use Reddit’s search/API or a compliant third‑party data source to find and score relevant subreddits (fit, activity, friendliness to promos).
 * Conversation monitoring: Watch selected subreddits for new posts that match the product’s themes and notify the user with a short summary and suggested response angles.
