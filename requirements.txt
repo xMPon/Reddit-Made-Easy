@@ -1,0 +1,8 @@
+# Backend requirements for Reddit-Made-Easy MVP
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+praw
+python-dotenv
