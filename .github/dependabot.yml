@@ -1,0 +1,14 @@
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    # No schedule means only on commit
+    # Remove schedule to only trigger on commit
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    # No schedule means only on commit
+    # Remove schedule to only trigger on commit
